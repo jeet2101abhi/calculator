@@ -11,11 +11,11 @@
   </head>
   <body>
     <header>
-      <h1>Aditya Konda</h1>
+      <h1>Abhijeet Singh</h1>
       <p>Web Developer | Full Stack Developer</p>
     </header>
     <section id="about">
-      <img src="profile.jpg" alt="Aditya Konda" />
+      <img src="profile.jpg" alt="Abhijeet Singh" />
     </section>
     <section id="about1">
       <h2>
@@ -43,11 +43,11 @@
     </section>
     <section id="contact">
       <h2>Contact</h2>
-      <p>Email: adityakonda04@gmail.com</p>
-      <p>Phone: 808039260</p>
+      <p>Email: abi2101@gmail.com</p>b
+      <p>Phone: 8528329637</p>
     </section>
     <footer>
-      <p>&copy; 2023 Aditya Konda. All rights reserved.</p>
+      <p>&copy; 2023 Abhijeet Singh. All rights reserved.</p>
     </footer>
   </body>
 </html>
